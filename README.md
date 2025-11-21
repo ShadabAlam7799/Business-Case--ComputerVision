@@ -1,8 +1,4 @@
-```markdown
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-purple)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+Understood. Here's the updated README **without** the badge tags inside the markdown:
 
 # Ninjacart Fresh Produce Image Classification
 
@@ -167,5 +163,4 @@ For mobile deployment where model size matters, **MobileNet** (90% accuracy, onl
 ---
 
 *Prepared by: Data Science Team @ Ninjacart*  
-*Project Date: January 2023*
-```
+*Project Date: 2025*
