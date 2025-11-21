@@ -1,5 +1,18 @@
 # Ninjacart Fresh Produce Image Classification
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-purple)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)  
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-teal)  
+![CNN](https://img.shields.io/badge/CNN-Image%20Classification-orange)  
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-ResNet%2C%20VGG19%2C%20MobileNet-green)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Classification-crimson)
+
+---
+
 This project implements a computer vision solution to classify images of fresh produce and market scenes for **Ninjacart**, India’s largest fresh produce supply chain company. The goal is to build and compare deep learning models to accurately distinguish between **Onion**, **Potato**, **Tomato**, and general **Indian Market** (noise) images.
 
 ---
