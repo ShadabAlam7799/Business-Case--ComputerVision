@@ -1,5 +1,3 @@
-Understood. Here's the updated README **without** the badge tags inside the markdown:
-
 # Ninjacart Fresh Produce Image Classification
 
 This project implements a computer vision solution to classify images of fresh produce and market scenes for **Ninjacart**, India’s largest fresh produce supply chain company. The goal is to build and compare deep learning models to accurately distinguish between **Onion**, **Potato**, **Tomato**, and general **Indian Market** (noise) images.
@@ -163,4 +161,4 @@ For mobile deployment where model size matters, **MobileNet** (90% accuracy, onl
 ---
 
 *Prepared by: Data Science Team @ Ninjacart*  
-*Project Date: 2025*
+*Project Date: 2023*
